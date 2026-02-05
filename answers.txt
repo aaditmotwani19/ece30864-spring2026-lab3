@@ -10,3 +10,9 @@
         sprint planning meeting: determine what to complete in the sprint, start sprint
         daily scrum/standup meeting: discuss work completed, discuss work plan for the day and any blockers
         sprint retrospective meeting: close sprint, discuss work complete and move incomplete to backlog.
+
+4.  epic vs story vs bug vs issue:
+        epic: large body of work that can be broken down into stories
+        story: software system requirement that can be expressed in a couple of sentences
+        task issue: a unit of work that can be tracked through a workflow
+        bug: something blocking or affecting the completion of an action item
