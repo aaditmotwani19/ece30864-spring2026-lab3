@@ -1,3 +1,7 @@
 1.  Pros and cons of Agile dev: 
         Pros: iterative approach, breaks down projects to several (more managable) stages
         Cons: flexibility can lead to a massive project scope, documentation isn't always consistent between devs
+
+2.  Scrum Master vs Project Owner:
+        Scrum Master: all scrum related tasks, including Jira tooling, facilitating sprints, meetings, etc.
+        Project Owner: sets direction for the team, handles releases and stakeholder management.
