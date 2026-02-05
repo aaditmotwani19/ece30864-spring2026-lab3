@@ -5,3 +5,8 @@
 2.  Scrum Master vs Project Owner:
         Scrum Master: all scrum related tasks, including Jira tooling, facilitating sprints, meetings, etc.
         Project Owner: sets direction for the team, handles releases and stakeholder management.
+
+3.  3 types of meetings:
+        sprint planning meeting: determine what to complete in the sprint, start sprint
+        daily scrum/standup meeting: discuss work completed, discuss work plan for the day and any blockers
+        sprint retrospective meeting: close sprint, discuss work complete and move incomplete to backlog.
